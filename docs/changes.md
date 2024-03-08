@@ -1,24 +1,8 @@
 ---
-title: Change Log
-nav_order: 14
+title: Sample Page
+nav_order: 3
 ---
 
-# Change Log
+# Sample Page
 
-This page lists major changes to the CollectionBuilder templates over time. 
-The records might help debug issues if you are working with an older project.
-
-{% assign changes = site.change-log | sort: "release" | reverse %}
-{% for c in changes %}- [{{ c.title }}](#{{ c.title | slugify }}), {{ c.release }}
-{% endfor %}
-
-{% for c in changes %}
---------
-
-## {{ c.title }}
-
-**{{ c.release }}**
-
-{{ c.content }}
-
-{% endfor %}
+You can also just have a sample page that isn't a section. 
