@@ -1,6 +1,6 @@
 ---
 title: Windows - Ruby Install
-parent: Jekyll Software
+parent: Software
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: GitHub
-parent: Jekyll Software
+parent: Software
 nav_order: 0
 ---
 

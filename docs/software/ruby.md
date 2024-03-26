@@ -1,6 +1,6 @@
 ---
 title: Install Ruby
-parent: Jekyll Software
+parent: Software
 nav_order: 3
 ---
 

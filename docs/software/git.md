@@ -1,6 +1,6 @@
 ---
 title: Git Setup
-parent: Jekyll Software
+parent: Software
 nav_order: 1
 ---
 

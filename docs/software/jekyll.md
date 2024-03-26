@@ -1,6 +1,6 @@
 ---
 title: Install Jekyll
-parent: Jekyll Software
+parent: Software
 nav_order: 7
 ---
 

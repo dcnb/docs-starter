@@ -1,6 +1,6 @@
 ---
 title: Get a Text Editor
-parent: Jekyll Software
+parent: Software
 nav_order: 2
 ---
 

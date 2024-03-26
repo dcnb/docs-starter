@@ -1,6 +1,6 @@
 ---
 title: Optional Software
-parent: Jekyll Software
+parent: Software
 nav_order: 8
 ---
 

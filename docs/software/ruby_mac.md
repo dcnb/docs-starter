@@ -1,6 +1,6 @@
 ---
 title: Mac - Ruby Install
-parent: Jekyll Software
+parent: Software
 nav_order: 5
 ---
 
